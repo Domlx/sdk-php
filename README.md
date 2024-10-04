@@ -21,7 +21,7 @@ This SDK can be used to streamline PHP integrations with the Upmind API.
 
 ## Requirements
 
-- PHP 7.4, 8.0, 8.1, 8.2 or 8.3
+- PHP 7.3, 7.4, 8.0, 8.1, 8.2 or 8.3
 - Composer
 - [HTTPlug-compatible Client](https://packagist.org/providers/psr/http-client-implementation) e.g., Guzzle
 - [Upmind Starter](https://upmind.com/pricing) plan or higher
