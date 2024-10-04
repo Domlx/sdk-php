@@ -1,5 +1,5 @@
 {
-    "name": "upmind/sdk",
+    "name": "domlx/sdk",
     "description": "PHP SDK for the Upmind API",
     "type": "library",
     "license": "GPL-3.0-only",
