@@ -29,7 +29,7 @@ This SDK can be used to streamline PHP integrations with the Upmind API.
 ## Installation
 
 ```bash
-composer require upmind/sdk
+composer require Domlx/sdk-php
 ```
 
 This library makes use of the [HTTPLUG](https://docs.php-http.org/en/latest/index.html) abstraction for making HTTP requests, using [discovery](https://docs.php-http.org/en/latest/discovery.html) to automatically detect an HTTP client to use. Because the library depends on the virtual package `psr/http-client-implementation` you will need to first install a compatible HTTP [client implementation](https://packagist.org/providers/psr/http-client-implementation) e.g., [php-http/guzzle7-adapter](https://packagist.org/packages/php-http/guzzle7-adapter).
